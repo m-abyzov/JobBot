@@ -1,5 +1,5 @@
 nltk==3.4.5
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 pyTelegramBotAPI==3.7.1
 pymystem3==0.2.0
 hnswlib==0.3.4
